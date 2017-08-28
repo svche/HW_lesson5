@@ -87,7 +87,6 @@ namespace HW_lessons5
                                 {
                                     Console.Write(i + " ");
                                 }
-
                             }
 
                     */
